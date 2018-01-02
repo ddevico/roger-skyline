@@ -1,2 +1,1 @@
-62.210.207.183 intra.42.fr
-# add in /etc/hosts
+# echo "163.172.250.11 intra.42.fr" >> /etc/hosts
